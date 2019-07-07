@@ -1,0 +1,9 @@
+.github
+docs
+img
+samples
+.mailmap
+AUTHORS
+appveyor.yml
+ChangeLog
+*.md
